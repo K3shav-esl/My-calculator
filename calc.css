@@ -1,0 +1,38 @@
+body{
+    font-family: monospace;
+}
+.calculator{
+    background-color: grey;
+    text-align: center;
+    width: fit-content;
+    border: 2px solid black;
+    display:block;
+    height: fit-content;
+    padding: 4px;
+    padding-top: 12px;
+    border-radius: 10px;
+    margin:auto;
+}
+
+table{
+    
+    text-align: center;
+    margin: auto;
+    margin-top: 0.4rem;
+}
+.btn{
+   cursor: pointer; 
+    margin: 2px;
+    border-radius: 5px;
+    border:2px solid black;
+    padding: 5px;
+    height: 45px;
+    width: 45px;
+}
+
+#screen{
+    width: 198px;
+    height:28px;
+    border-radius: 4px;
+    border: 2px solid black;
+}
